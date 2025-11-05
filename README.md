@@ -1,6 +1,6 @@
 # g6-extension-svelte
 
-This extension allows you to define G6 nodes using Svelte 5 components.
+A G6 extension that lets you create custom nodes with Svelte components.
 
 # Installation
 

@@ -1,7 +1,7 @@
 {
   "name": "g6-extension-svelte",
   "version": "0.1.0",
-  "description": "Using Svelte Component to Define Your G6 Graph Node",
+  "description": "A G6 extension that lets you create custom nodes with Svelte components",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
