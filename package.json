@@ -1,6 +1,6 @@
 {
   "name": "g6-extension-svelte",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A G6 extension that lets you create custom nodes with Svelte components",
   "type": "module",
   "exports": {
